@@ -1,4 +1,4 @@
-# Kanban Board — Frontend
+# Task Orchestration Console
 
 A Next.js kanban board where a signed-in user creates boards, organizes work into columns, and
 manages tasks (with subtask checklists) via drag-and-drop — built against a versioned OpenAPI
